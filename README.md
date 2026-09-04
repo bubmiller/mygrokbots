@@ -4,7 +4,7 @@ Durable knowledge log for Steve's bots. Chat memory dies; this repo keeps decisi
 
 ## Layout
 
-- One folder per bot: `captian/`, `carrie/`, `emily/`, `robin/`, `allen/`
+- One folder per bot: `captian/`, `carrie/`, `emily/`, `robin/`, `allen/`, `brad/`
 - One markdown file per day: `YYYY-MM-DD.md`
 
 ## What to log
