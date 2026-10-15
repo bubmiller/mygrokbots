@@ -1,0 +1,101 @@
+n,employer,presence,careers_url,site_hint,notes
+1,Procter & Gamble,HQ Cincinnati / Mason R&D,https://pg.wd5.myworkdayjobs.com/,site:pg.wd5.myworkdayjobs.com / site:pgcareers.com,Strong local HQ; Fortune 500
+2,The Kroger Co.,HQ Cincinnati,https://jobs.kroger.com/,site:jobs.kroger.com,Largest local employer; CPG/retail HQ
+3,Fifth Third Bank,HQ Cincinnati,https://jobs.53.com/,site:jobs.53.com,Finance HQ; Fortune 500
+4,Cincinnati Children's Hospital Medical Center,HQ Cincinnati,https://www.cincinnatichildrens.org/careers,site:cincinnatichildrens.org/careers,Region's largest health employer
+5,UC Health,Cincinnati / West Chester,https://careers.uchealth.com/,site:careers.uchealth.com,Distinct from UC university jobs
+6,University of Cincinnati,Cincinnati,https://career8.successfactors.com/ (UC),site:career8.successfactors.com + UC,**Keep-off:** Help Desk Supervisor REQ 104051 (applied); other titles OK after dedupe
+7,TriHealth,Cincinnati,https://www.trihealth.com/careers,site:trihealth.com/careers,Health system
+8,Mercy Health / Bon Secours Mercy Health,Cincinnati / SW OH,https://careers.mercy.com/,site:careers.mercy.com,Health system
+9,The Christ Hospital Health Network,Cincinnati,https://www.thechristhospital.com/careers,site:thechristhospital.com/careers,Health system
+10,St. Elizabeth Healthcare,Northern KY,https://www.stelizabeth.com/careers,site:stelizabeth.com/careers,NKY major health system
+11,GE Aerospace (GE Aviation),Evendale / Cincy / West Chester,https://careers.geaerospace.com/,site:careers.geaerospace.com,Major engineering HQ presence; Fortune 500
+12,Cintas,HQ Mason / Cincy,https://www.cintas.jobs/,site:cintas.jobs / site:cintas.com/careers,**Keep-off:** IT Manager–OT Mason (filled); other IT mgr roles OK after dedupe
+13,EssilorLuxottica / Luxottica,Mason OH (NA hub),https://careers.essilorluxottica.com/,site:careers.essilorluxottica.com,Strong Mason presence
+14,Ethicon / Johnson & Johnson,Blue Ash / Cincinnati area,https://jobs.jnj.com/,site:jobs.jnj.com,Med device; filter Cincinnati/Blue Ash
+15,Western & Southern Financial Group,HQ Cincinnati,https://www.westernsouthern.com/careers,site:westernsouthern.com/careers,Insurance/finance HQ; Fortune 500
+16,Cincinnati Financial / Cincinnati Insurance,Fairfield / Cincy,https://www.cinfin.com/careers,site:cinfin.com/careers,Insurance HQ; Fortune 500
+17,American Financial Group / Great American Insurance,HQ Cincinnati,https://www.greatamericaninsurancegroup.com/careers,site:greatamericaninsurancegroup.com/careers,Insurance HQ; Fortune 500
+18,altafiber (Cincinnati Bell),Cincinnati,https://www.altafiber.com/careers,site:altafiber.com/careers,Telecom
+19,E.W. Scripps,HQ Cincinnati,https://scripps.com/careers/,site:scripps.com/careers,Media HQ
+20,Fidelity Investments,Covington KY (NKY),https://jobs.fidelity.com/,site:jobs.fidelity.com,Large NKY campus; filter Covington/Cincinnati
+21,First Financial Bank,Cincinnati / SW OH,https://www.bankatfirst.com/careers,site:bankatfirst.com/careers,Regional bank
+22,U.S. Bank,Large Cincy presence,https://www.usbank.jobs/,site:usbank.jobs,Filter Cincinnati
+23,Huntington Bank,Cincy presence,https://huntington.wd5.myworkdayjobs.com/,site:huntington.wd5.myworkdayjobs.com,Filter Cincinnati
+24,PNC,Cincy presence,https://careers.pnc.com/,site:careers.pnc.com,Filter Cincinnati
+25,Total Quality Logistics (TQL),HQ Cincinnati,https://www.tql.com/careers,site:tql.com/careers,Logistics HQ; large private employer
+26,84.51°,HQ Cincinnati,https://www.8451.com/careers/,site:8451.com/careers / site:job-boards.greenhouse.io/8451,Kroger analytics; often data-heavy — only pitch IT/service-desk lane
+27,Medpace,HQ Cincinnati,https://careers.medpace.com/,site:careers.medpace.com,**Keep-off:** Manager Infrastructure Endpoint 12273 (applied); other reqs OK after dedupe
+28,Lahlouh,Blue Ash,https://lahlouh.applytojob.com/,site:lahlouh.applytojob.com,**Keep-off:** IT Manager (applied); other titles only
+29,Macy's,Historic Cincy HQ / Deerfield Twp credit ops,https://www.macysjobs.com/,site:macysjobs.com,Filter Cincinnati / Mason area
+30,Emerson,Local / regional presence,https://www.emerson.com/en-us/careers,site:emerson.com/careers,Filter Cincinnati / Dayton if ≤ stretch
+31,Siemens / Siemens Energy,Local presence,https://jobs.siemens.com/,site:jobs.siemens.com,Filter Cincinnati
+32,Cleveland-Cliffs (AK Steel),Middletown / West Chester,https://www.clevelandcliffs.com/careers,site:clevelandcliffs.com/careers,Nearby heavy industry
+33,Castellini Group,Cincinnati,https://www.castellini.com/careers,site:castellini.com/careers,Produce logistics
+34,Ascension,Regional health IT footprint,https://ascension.org/careers,site:ascension.org/careers,Steve's prior employer; filter OH / Cincinnati
+35,Amazon (non-OTS only),Springdale OH / Hebron KY / Monroe DCs,https://www.amazon.jobs/,site:amazon.jobs Cincinnati OR Mason OR Hebron OR Monroe,**Keep-off:** IT Manager OTS Job 10432129 (passed); other IT Manager / EUC roles only after dedupe
+36,CVG Airport (Kenton County Airport Board),Hebron KY (NKY),https://www.cvgairport.com/careers/,site:cvgairport.com/careers,Among region's largest employers (airport authority + tenants)
+37,DHL Express,CVG hub / Erlanger KY,https://careers.dhl.com/,site:careers.dhl.com CVG OR Erlanger OR Cincinnati,Major NKY cargo hub (~5k)
+38,Elevance Health (Anthem),Deerfield Twp / Mason / Cincinnati,https://careers.elevancehealth.com/,site:careers.elevancehealth.com,Large Warren County / Mason-area presence
+39,Miami University,Oxford / Hamilton / Middletown (Butler),https://jobs.miamioh.edu/,site:jobs.miamioh.edu,Large Butler County employer; filter IT/manager titles
+40,Paycor (Paychex),HQ Cincinnati,https://www.paycor.com/company/careers/,site:paycor.com/careers / site:careers.paychex.com,HCM software HQ; may route via Paychex ATS post-acquisition
+41,United Dairy Farmers (UDF),HQ Cincinnati,https://www.udfinc.com/careers,site:udfinc.com/careers,Regional convenience/dairy HQ
+42,American Modern Insurance Group,Amelia (Clermont),https://www.amig.com/careers,site:amig.com/careers,Specialty P&C; Munich Re subsidiary
+43,AtriCure,HQ Mason,https://job-boards.greenhouse.io/atricure,site:job-boards.greenhouse.io/atricure / site:atricure.com/careers,Med device HQ Mason
+44,Prasco Laboratories,Mason,https://www.prasco.com/careers,site:prasco.com/careers,Authorized generics; Mason
+45,Honeywell Intelligrated,Mason,https://careers.honeywell.com/,site:careers.honeywell.com Mason OR Intelligrated,Automation / warehouse systems; Mason campus
+46,L3Harris Technologies,Mason,https://careers.l3harris.com/,site:careers.l3harris.com Mason OR Cincinnati,Electronics / defense presence Mason
+47,Makino,Mason,https://www.makino.com/about/careers,site:makino.com/careers,Machine tools; Mason HQ USA
+48,Mitsubishi Electric Automotive America,Mason,https://www.mitsubishielectric.com/en/careers/,site:mitsubishielectric.com/careers Mason OR Cincinnati,Automotive electronics Mason
+49,ADVICS Manufacturing,Lebanon (Warren),https://www.advics-na.com/careers,site:advics-na.com/careers,Automotive brakes; Warren County
+50,Belcan (Cognizant),HQ Cincinnati,https://www.belcan.com/careers/,site:belcan.com/careers,Engineering services; Cognizant-owned — pitch IT/ops mgr only if Cincy/hybrid verified
+51,The Gorilla Glue Company,Sharonville,https://www.gorillatough.com/careers,site:gorillatough.com/careers,Consumer adhesives HQ
+52,totes Isotoner,West Chester,https://www.totes-isotoner.com/careers,site:totes-isotoner.com/careers,Consumer accessories; West Chester
+53,Milacron,Batavia (Clermont),https://www.milacron.com/careers,site:milacron.com/careers,Plastics machinery
+54,ProAmpac,Springdale / Cincy area,https://www.proampac.com/careers/,site:proampac.com/careers,Flexible packaging; large private employer
+55,Givaudan,Cincinnati / area plants,https://www.givaudan.com/careers,site:givaudan.com/careers,Flavors/fragrances; filter Cincinnati
+56,MANE Inc.,Lebanon (Warren),https://www.mane.com/careers,site:mane.com/careers,Flavors; Warren County
+57,Empire Packing,Mason,https://www.empirepacking.com/careers,site:empirepacking.com/careers,Food processing Mason — ATS may be thin
+58,VEGA Americas,Mason,https://www.vega.com/en-us/company/career,site:vega.com/career Mason OR Cincinnati,Level/process instrumentation Mason
+59,Forvia / Faurecia,Franklin / Warren area,https://www.forvia.com/en/careers,site:forvia.com/careers / site:faurecia.com/careers,Auto parts; filter Cincinnati/Franklin
+60,Duke Energy,Cincinnati / SW OH presence,https://dukeenergy.wd1.myworkdayjobs.com/,site:dukeenergy.wd1.myworkdayjobs.com,Utility; filter Cincinnati / Ohio
+61,City of Cincinnati,Cincinnati,https://www.governmentjobs.com/careers/cincinnati,site:governmentjobs.com/careers/cincinnati,Municipal (~6k); NeoGov
+62,Hamilton County,Cincinnati,https://www.hamiltoncountyohio.gov/jobs,site:hamiltoncountyohio.gov/jobs,County government
+63,Xavier University,Cincinnati,https://www.xavier.edu/hr/careers,site:xavier.edu careers OR jobs,Private university
+64,Northern Kentucky University (NKU),Highland Heights KY,https://jobs.nku.edu/,site:jobs.nku.edu,NKY public university
+65,Cincinnati State Technical and Community College,Cincinnati,https://www.cincinnatistate.edu/about/employment/,site:cincinnatistate.edu employment OR careers,Community college
+66,Meijer,Multiple Cincy / Middletown stores + ops,https://jobs.meijer.com/,site:jobs.meijer.com,Filter Cincinnati / Northern Kentucky
+67,Walmart,Regional stores / DCs,https://careers.walmart.com/,site:careers.walmart.com Cincinnati OR Mason OR Hebron,Filter metro; skip pure store IC
+68,The Home Depot,Regional stores / Monroe presence,https://careers.homedepot.com/,site:careers.homedepot.com Cincinnati OR Monroe,Filter metro; skip pure store IC
+69,Delta Air Lines,CVG focus city,https://delta.avature.net/,site:delta.avature.net / site:delta.com/careers CVG OR Cincinnati,Airport ops / IT if posted locally or remote
+70,XPO Logistics,Cincinnati LTL hub,https://jobs.xpo.com/,site:jobs.xpo.com,Filter Cincinnati
+71,Meridian Bioscience,HQ Cincinnati area,https://careers-meridianbioscience.icims.com/,site:careers-meridianbioscience.icims.com,Diagnostics / life sciences
+72,Roto-Rooter,HQ Cincinnati,https://www.rotorooter.com/careers/,site:rotorooter.com/careers,Plumbing services HQ
+73,Rumpke Waste & Recycling,HQ Cincinnati area,https://www.rumpke.com/careers,site:rumpke.com/careers,Waste / recycling regional HQ
+74,Messer Construction,HQ Cincinnati,https://www.messer.com/careers/,site:messer.com/careers,Construction HQ
+75,Drees Homes,HQ Fort Mitchell KY (NKY),https://www.dreeshomes.com/careers/,site:dreeshomes.com/careers,Homebuilder HQ NKY
+76,Philips Edison & Company,HQ Cincinnati,https://www.philipsedison.com/careers,site:philipsedison.com/careers,Retail REIT HQ
+77,Cornerstone Brands / HSN,West Chester,https://www.hsn.com/careers,site:hsn.com/careers / Cornerstone Brands,Consumer brands campus West Chester
+78,Koch Foods,Fairfield (Butler),https://www.kochfoodsinc.com/careers,site:kochfoodsinc.com/careers,Poultry processing; Butler County
+79,Tyson Foods,West Chester / regional,https://www.tysonfoods.com/careers,site:tysonfoods.com/careers,Filter Cincinnati / West Chester
+80,Kettering Health,Hamilton / Butler presence,https://www.ketteringhealth.org/careers/,site:ketteringhealth.org/careers,Health system; Hamilton campus
+81,Premier Health / Atrium Medical Center,Middletown,https://www.premierhealth.com/careers,site:premierhealth.com/careers,Middletown hospital campus
+82,Otterbein SeniorLife,Warren / regional,https://www.otterbein.org/careers,site:otterbein.org/careers,Senior living; filter IT/manager
+83,Atos,Deerfield Twp presence,https://atos.net/en/careers,site:atos.net/careers Cincinnati OR Mason,IT services; only if Cincy/hybrid IT-manager posting verified
+84,Skyline Chili,HQ Cincinnati,https://www.skylinechili.com/careers,site:skylinechili.com/careers,Regional restaurant HQ — corp IT only
+85,Graeter's Ice Cream,HQ Cincinnati,https://www.graeters.com/careers,site:graeters.com/careers,Regional dairy/retail HQ — corp IT only
+86,Standard Textile,HQ Cincinnati,https://www.standardtextile.com/careers,site:standardtextile.com/careers,Textile / hospitality products HQ
+87,Fischer Homes,HQ Erlanger KY (NKY),https://www.fischerhomes.com/careers,site:fischerhomes.com/careers,Homebuilder NKY
+88,Jeff Wyler Automotive Family,Milford / regional,https://www.jeffwyler.com/careers,site:jeffwyler.com/careers,Auto dealer group — corp IT only
+89,Heidelberg Distributing,HQ Cincinnati area,https://www.heidelbergdistributing.com/careers,site:heidelbergdistributing.com/careers,Beverage distribution
+90,Sysco,Cincinnati / regional DC,https://careers.sysco.com/,site:careers.sysco.com Cincinnati,Foodservice distribution; filter metro
+91,US Foods,Cincinnati / regional,https://www.usfoods.com/careers.html,site:usfoods.com/careers Cincinnati,Foodservice distribution; filter metro
+92,PepsiCo / Pepsi Beverages,Regional ops,https://www.pepsicojobs.com/,site:pepsicojobs.com Cincinnati,Filter Cincinnati; skip pure warehouse IC
+93,Coca-Cola Consolidated,Regional presence,https://cokeconsolidated.wd1.myworkdayjobs.com/,site:cokeconsolidated.wd1.myworkdayjobs.com,Filter Cincinnati / NKY
+94,Cincom Systems,HQ Cincinnati,https://www.cincom.com/careers/,site:cincom.com/careers,Enterprise software HQ
+95,Q Laboratories,Cincinnati,https://www.qlaboratories.com/careers,site:qlaboratories.com/careers,Testing lab; smaller IT footprint
+96,LCA-Vision / LasikPlus,HQ Cincinnati,https://www.lasikplus.com/careers,site:lasikplus.com/careers,Vision correction HQ
+97,AssureCare,Cincinnati,https://www.assurecare.com/careers,site:assurecare.com/careers,Healthcare software
+98,Michelman,HQ Cincinnati,https://www.michelman.com/careers/,site:michelman.com/careers,Specialty chemicals HQ
+99,Hillenbrand / Milacron-related brands,Batesville IN stretch / Cincy ties,https://www.hillenbrand.com/careers,site:hillenbrand.com/careers,Only if Cincy/remote US posting; Batesville is stretch geo
+100,Cedar Fair / Kings Island,Mason (seasonal + corp ops),https://www.cedarfair.com/careers,site:cedarfair.com/careers / site:experiencekingsisland.com,Pitch year-round corp/IT only; skip seasonal park IC
