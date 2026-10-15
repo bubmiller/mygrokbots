@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-15",
+  "timezone": "America/New_York",
+  "weekday": "Thursday",
+  "started_at": "2026-10-15T08:00:34.911860-04:00",
+  "careers_pass": true,
+  "sources": {
+    "linkedin": {
+      "requests": 64,
+      "http_codes": {
+        "200": 63,
+        "429": 1
+      },
+      "errors": [
+        "GET www.linkedin.com 429"
+      ],
+      "rows": 558,
+      "queries": 63,
+      "unresolved_429": 0
+    },
+    "google": {
+      "requests": 100,
+      "http_codes": {
+        "200": 79,
+        "ReadTimeout": 21
+      },
+      "errors": [
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)",
+        "GET serpapi.com HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=20)"
+      ],
+      "rows": 167,
+      "provider": "serpapi",
+      "date": "2026-10-15"
+    },
+    "careers": {
+      "requests": 112,
+      "http_codes": {
+        "200": 81,
+        "ConnectionError": 1,
+        "404": 11,
+        "403": 4,
+        "422": 10,
+        "SSLError": 3,
+        "525": 1,
+        "405": 1
+      },
+      "errors": [
+        "GET jobs.53.com HTTPSConnectionPool(host='jobs.53.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='jobs.53.com', port=443): Failed to resolve 'jobs.53.com' ([Errno 11001] getaddrinfo fa",
+        "GET career8.successfactors.com 404",
+        "GET www.cintas.jobs 404",
+        "altafiber (Cincinnati Bell): blocked 200",
+        "GET www.bankatfirst.com 403",
+        "First Financial Bank: blocked 403",
+        "POST huntington.wd5.myworkdayjobs.com 422",
+        "POST huntington.wd5.myworkdayjobs.com 422",
+        "POST huntington.wd5.myworkdayjobs.com 422",
+        "POST huntington.wd5.myworkdayjobs.com 422",
+        "POST huntington.wd5.myworkdayjobs.com 422",
+        "Huntington Bank: workday site id not found",
+        "GET www.castellini.com 404",
+        "GET jobs.miamioh.edu HTTPSConnectionPool(host='jobs.miamioh.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1016)')))",
+        "GET www.udfinc.com 404",
+        "GET www.advics-na.com 404",
+        "GET www.totes-isotoner.com HTTPSConnectionPool(host='www.totes-isotoner.com', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)')))",
+        "GET www.empirepacking.com 525",
+        "GET www.vega.com 404",
+        "GET www.forvia.com 403",
+        "Forvia / Faurecia: blocked 403",
+        "GET www.xavier.edu 404",
+        "GET careers-meridianbioscience.icims.com 405",
+        "GET www.messer.com 404",
+        "Philips Edison & Company: blocked 200",
+        "GET www.kochfoodsinc.com HTTPSConnectionPool(host='www.kochfoodsinc.com', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostna",
+        "GET www.graeters.com 404",
+        "GET www.jeffwyler.com 404",
+        "GET www.heidelbergdistributing.com 403",
+        "Heidelberg Distributing: blocked 403",
+        "POST cokeconsolidated.wd1.myworkdayjobs.com 422",
+        "POST cokeconsolidated.wd1.myworkdayjobs.com 422",
+        "POST cokeconsolidated.wd1.myworkdayjobs.com 422",
+        "POST cokeconsolidated.wd1.myworkdayjobs.com 422",
+        "POST cokeconsolidated.wd1.myworkdayjobs.com 422",
+        "Coca-Cola Consolidated: workday site id not found",
+        "GET www.cincom.com 403",
+        "Cincom Systems: blocked 403",
+        "GET www.lasikplus.com 404"
+      ],
+      "rows": 1,
+      "employers_checked": 100,
+      "employers_deferred": []
+    },
+    "dice": {
+      "rows": 0,
+      "skipped": "no_api"
+    }
+  },
+  "ended_at": "2026-10-15T08:15:31.849219-04:00",
+  "rows": 726
+}
