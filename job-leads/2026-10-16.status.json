@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-16",
+  "timezone": "America/New_York",
+  "weekday": "Friday",
+  "started_at": "2026-10-16T08:30:36.253247-04:00",
+  "careers_pass": false,
+  "sources": {
+    "linkedin": {
+      "requests": 68,
+      "http_codes": {
+        "200": 63,
+        "429": 5
+      },
+      "errors": [
+        "GET www.linkedin.com 429",
+        "GET www.linkedin.com 429",
+        "GET www.linkedin.com 429",
+        "GET www.linkedin.com 429",
+        "GET www.linkedin.com 429"
+      ],
+      "rows": 549,
+      "queries": 63,
+      "unresolved_429": 0
+    },
+    "google": {
+      "rows": 0,
+      "skipped": "not_tue_thu"
+    },
+    "careers": {
+      "rows": 0,
+      "skipped": "not_tue_thu",
+      "employers_checked": 0
+    },
+    "dice": {
+      "rows": 0,
+      "skipped": "no_api"
+    }
+  },
+  "ended_at": "2026-10-16T08:32:54.837049-04:00",
+  "rows": 549
+}
